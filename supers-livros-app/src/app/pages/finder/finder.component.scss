@@ -1,0 +1,28 @@
+.col-6>div {
+    margin-top: 1rem;
+}
+
+.container-titulo-app {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+}
+
+.block-head {
+    display: flex;
+    align-items: center;
+}
+
+.input-busca {
+    height: 3.3rem;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+}
+
+.logo {
+    margin-right: 1.2rem;
+}
+
+thead {
+    vertical-align: middle !important;
+}
